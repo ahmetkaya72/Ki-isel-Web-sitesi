@@ -66,6 +66,8 @@ ul{
     color: white;
     font-size: 60px;
     transition: all ease-in-out 250ms;
+    padding: 15px;
+    margin: 10px;
 
 }
 
